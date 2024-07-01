@@ -6,6 +6,8 @@ const admin = require('firebase-admin');
 const app = express();
 const PORT = 5000;
 
+//new
+
 // Initialize Firebase Admin SDK
 const serviceAccount = require('./firebaseServiceAccountKey.json');
 admin.initializeApp({

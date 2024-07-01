@@ -1,0 +1,31 @@
+# Dependency directories
+/node_modules
+
+# Optional npm cache directory
+.npm
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Compiled binary addons (Node-gyp)
+/build/
+
+# Mac Finder custom files
+._*
+
+# Package lock file
+package-lock.json
+
+# Yarn lock file
+yarn.lock
